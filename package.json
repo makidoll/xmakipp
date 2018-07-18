@@ -1,0 +1,11 @@
+{
+	"name": "xmakipp",
+	"author": "Maki",
+	"description": "Unfinished CLI XMPP client with OTR support.",
+	"main": "app.js",
+	"dependencies": {
+		"blessed": "^0.1.81",
+		"colors": "^1.1.2",
+		"moment": "^2.21.0"
+	}
+}
